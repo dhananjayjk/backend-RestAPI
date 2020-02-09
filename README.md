@@ -4,6 +4,7 @@
 - Https traffic is supported
 - Facebook OAuth2 Login Option
 - Cross Origin File Sharing (MongoDB) 
+- I found this course https://www.coursera.org/learn/server-side-nodejs very helpful for learning server side development
 - Use Postman for testing your REST APIs https://www.postman.com/
 - Starting MongoDB server
   - ```mongod --dbpath=data --bind_ip 127.0.0.1```
